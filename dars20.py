@@ -1,1 +1,2 @@
 print("telefon")
+print("daftar")
